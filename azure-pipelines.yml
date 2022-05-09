@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 variables:
-  webAppName: 'test-rg-webapp-lt-node'
+  webAppName: 'test-rg-webapp-lt-nodehs123'
   serviceConnection: 'BicepServiceConnectionVSSub'
   azureSubscriptionId: '8b28f220-b5bc-4830-850d-e8767b4b198b'
   loadTestResource: 'load-testing-resource-hsnode'
